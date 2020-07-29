@@ -3,9 +3,5 @@
   "permanent_discount": 3,
   "home_station": 0.6,
   "additional_discount": 1,
-  "gas_consumption": "40/70",
-  "hotdrinks_consumption": "6/7",
-  "additional_discount2": 1,
-  "electricity": "JAH",
-  "gas": "EI"
+  "hotdrinks_consumption": "6/7"
 }
