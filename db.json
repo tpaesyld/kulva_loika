@@ -13,14 +13,19 @@
   "hotdrinks_consumption": "2/7"}
    ],
   "discounts": [
-    {"id":1,
+    {"id":"92b93178-c0b0-438f-aaec-cb6a287bf7f9",
       "total_discount": 4.6,
   "permanent_discount": 3,
   "home_station": 0.6,
   "additional_discount": 1},
     
-    {"id":2,
+    {"id":"bc2a8471-0ac6-4ac0-8746-8541c3bef838",
      "total_discount": 3.5,
+  "permanent_discount": 2.6,
+  "home_station": 0.6,
+  "additional_discount": 0.5},
+    {"id":"37901114714",
+     "total_discount": 2.2,
   "permanent_discount": 2.6,
   "home_station": 0.6,
   "additional_discount": 0.5}
