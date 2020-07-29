@@ -1,9 +1,9 @@
-{"discounts": [
+{"discounts": 
     {"total_discount": 4.6,
       "permanent_discount": 3,
       "home_station": 0.6,
       "additional_discount": 1,
       "hotdrinks_consumption": "6/7"
     }
-      ]
+      
 }
