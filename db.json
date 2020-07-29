@@ -1,7 +1,15 @@
 {
-  "total_discount": 4.6,
+  "posts": [
+    {"total_discount": 4.6,
   "permanent_discount": 3,
   "home_station": 0.6,
   "additional_discount": 1,
-  "hotdrinks_consumption": "6/7"
+  "hotdrinks_consumption": "6/7"},
+    
+    {"total_discount": 3.5,
+  "permanent_discount": 2.6,
+  "home_station": 0.6,
+  "additional_discount": 0.5,
+  "hotdrinks_consumption": "2/7"}
+   ]
 }
