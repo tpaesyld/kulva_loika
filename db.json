@@ -4,6 +4,11 @@
       "additional_discount": 1,
       "hotdrinks_consumption": "6/7",
       "is_in_debt": true  
-    }
+    },
+ something:
+ {
+     "is_in_debt": true,
+     has_loan: true
+ }
       
 }
