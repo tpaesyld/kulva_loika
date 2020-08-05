@@ -3,7 +3,7 @@
       "permanent_discount": 3,
       "additional_discount": 1,
       "hotdrinks_consumption": "6/7",
-      "is_in_debt": true  
+      "is_in_debt": false  
     }
       
 }
