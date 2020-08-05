@@ -5,10 +5,10 @@
       "hotdrinks_consumption": "6/7",
       "is_in_debt": true  
     },
- something:
+ "something":
  {
      "is_in_debt": true,
-     has_loan: true
+     "has_loan": true
  }
       
 }
