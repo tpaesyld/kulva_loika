@@ -8,7 +8,7 @@
  "something":
  {
      "is_in_debt": true,
-     "has_loan": true
+     "has_loan": false
  }
       
 }
