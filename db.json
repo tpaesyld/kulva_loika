@@ -30,6 +30,20 @@
         "amount": 15.43,
         "date": "2020-10-09"
     }
+},
+ jaanus: {
+    "existing_loan": {
+        "period": 60,
+        "residue": 5910.13
+    },
+    "free_credit": 0,
+    "has_loan": true,
+    "is_in_debt": true,
+    "next_payment": {
+        "amount": 175.92,
+        "date": "2020-07-28"
+    }
+     
 }
       
 }
