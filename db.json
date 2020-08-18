@@ -44,6 +44,13 @@
         "date": "2020-07-28"
     }
      
+},
+ "toomas": {
+    "existing_loan": null,
+    "free_credit": 4005.99,
+    "has_loan": false,
+    "is_in_debt": false,
+    "next_payment": null
 }
       
 }
