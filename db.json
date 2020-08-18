@@ -16,6 +16,20 @@
      "loan5" : 4,
      "loan6" : 4,
      "loan7" : 4
- }
+ },
+ 
+ "taavi":{
+    "existing_loan": {
+        "period": 31,
+        "residue": 478.33
+    },
+    "free_credit": 338,
+    "has_loan": true,
+    "is_in_debt": false,
+    "next_payment": {
+        "amount": 15.43,
+        "date": "2020-10-09"
+    }
+}
       
 }
