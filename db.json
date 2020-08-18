@@ -8,7 +8,14 @@
  "something":
  {
      "is_in_debt": true,
-     "has_loan": true
+     "has_loan": true,
+     "loan1" : 4,
+     "loan2" : 5,
+     "loan3" : 6,
+     "loan4" : 7,
+     "loan5" : 4,
+     "loan6" : 4,
+     "loan7" : 4,
  }
       
 }
